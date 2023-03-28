@@ -36,7 +36,6 @@ h1, h2 {
 
 #menu, #logo {
     line-height: 75px;
-
 }
 
 #menu li {
@@ -107,12 +106,10 @@ h1, h2 {
     
     background-color: rgba(241, 109, 107, .7);
 
-
     bottom: 30px;
     right: 150px;
 
     position:absolute;
-
 }
 
 /* club ethos */
@@ -127,7 +124,7 @@ h1, h2 {
     float: left;
 }
 
-#right-about {
+.right-about {
     padding-top: 30px;
     width: 33%;
     float: right;
@@ -137,7 +134,6 @@ h1, h2 {
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
 }
 
 hr {
@@ -152,4 +148,20 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+}
+
+.right-about-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading h2 {
+    text-align: right;
+}
+
+.right-about-heading p {
+    text-align: right;
 }
