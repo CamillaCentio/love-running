@@ -12,8 +12,6 @@ body {
     color: #3a3a3a;
 }
 
-/* headings and logo */
-
 h1, h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
@@ -21,6 +19,7 @@ h1, h2 {
     color: #252525;
 }
 
+/* headings and logo */
 #logo {
     float: left;
     font-size: 280%;   
